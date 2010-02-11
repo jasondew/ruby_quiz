@@ -1,0 +1,1 @@
+Autotest.add_discovery { self.extra_class_map[Log] = 'log.rb' }
